@@ -20,10 +20,10 @@ This project contains automated UI tests for the Playlist App using **Playwright
 ## Running Tests
 
 Run all tests in headless mode:
-npm test
+npx playwright test
 
 Run tests with UI (debug mode):
-npm run test:ui
+npx playwright test --ui
 
 ## Project Structure
 
